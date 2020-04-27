@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "link": "http://placehold.it/300x200",
+      "title": "Service title A",
+      "detail": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque sequi doloribus."
+    },
+    {
+      "id": 2,
+      "link": "http://placehold.it/300x200",
+      "title": "Service title B",
+      "detail": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque sequi doloribus."
+    },
+    {
+      "id": 3,
+      "link": "http://placehold.it/300x200",
+      "title": "Service title C",
+      "detail": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque sequi doloribus."
+    }
+]

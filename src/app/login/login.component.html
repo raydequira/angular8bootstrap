@@ -1,0 +1,9 @@
+<p>login works!</p>
+<nav>
+    <a routerLink="/about" routerLinkActive="active" >About</a>
+    <a routerLink="/contact" routerLinkActive="active" >Contact</a>
+</nav>
+<button class="btn primary" >Test</button>
+<div *ngFor="let user of users" class="row">
+    <div class="col">{{user.id}}</div>
+</div>

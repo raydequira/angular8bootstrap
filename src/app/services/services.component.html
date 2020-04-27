@@ -1,0 +1,19 @@
+<div class="container">
+    <div class="row">
+        <div class="col-md-4 mb-5" *ngFor="let service of ServicesList">
+            <div class="card h-100">
+                <img class="card-img-top" src="{{service.link}}" alt="">
+                <div class="card-body">
+                <h4 class="card-title">{{service.title}}</h4>
+                <p class="card-text">{{service.detail}}</p>
+                </div>
+                <div class="card-footer">
+                <a (click)="navRoute(service)" class="btn btn-primary">Find Out More!</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- /.row -->
+
+</div>
+<!-- /.container -->
