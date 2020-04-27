@@ -2,6 +2,11 @@
 Make sure you have npm install in you
 https://www.npmjs.com/get-npm
 
+npm install -g @angular/cli
+
+ng serve
+
+Below are optional commands you can use to upgrade this project
 
 # AngularApp
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.3.

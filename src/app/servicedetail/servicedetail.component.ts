@@ -9,7 +9,7 @@ import { ServicesService } from '../services/services.service';
 })
 export class ServicedetailComponent implements OnInit {
 
-  private serviceDisplay: any = {}; 
+  public serviceDisplay: any = {}; 
   private services: any = []; 
   private serviceId: number;
 
